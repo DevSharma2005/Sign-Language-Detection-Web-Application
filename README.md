@@ -15,9 +15,11 @@ This web application bridges the gap between general people and deaf community.
 <br>
 -> Key Features:
 <br>
-   Real-time detection.
-   Support for specific alphabets(eg. ASL) or custom gestures
-   Text-to-speech integration
+Real-time detection.
+<br>
+Support for specific alphabets(eg. ASL) or custom gestures
+<br>
+Text-to-speech integration.
 <br>
 3.Tech Stack
 <br>
