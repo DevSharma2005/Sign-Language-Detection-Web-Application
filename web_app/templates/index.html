@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Sign Language Detector</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <div class="container">
+        <h1>ASL Recognition System</h1>
+        <div class="video-wrapper">
+            <img src="{{ url_for('video_feed') }}" width="100%">
+        </div>
+        <div id="prediction-box">
+            <p>Detected Gesture: <span id="label">Waiting...</span></p>
+        </div>
+    </div>
+</body>
+</html>
