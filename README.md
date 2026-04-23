@@ -1,7 +1,7 @@
 # Sign-Language-Detection-Web-Application
 1.Project Title
 <br>
-Sign Language detection Web Application
+Sign Language detection Web Application:
 <br>
 A real-time web application that uses computer vision to translate hand gestures into text/speech
 <br>
@@ -16,9 +16,7 @@ This web application bridges the gap between general people and deaf community.
 -> Key Features:
 <br>
    Real-time detection.
-<br>   
    Support for specific alphabets(eg. ASL) or custom gestures
-<br>
    Text-to-speech integration
 <br>
 3.Tech Stack
